@@ -10,3 +10,5 @@ Eurekas:
 1.You can style in html using style= in the tag
 2.The label tag is used to add labels to input fields and make them easier to click
 3.You can use overflow in css to decide what happens to content that overflows it's box
+4.If you want to return or get a value from an input in HTML, you add .value to return the value
+5.If you want a button to respond to something other than a click, use .addEventListener
