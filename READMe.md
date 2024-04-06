@@ -9,3 +9,4 @@ The youtube tutorial link is: https://www.youtube.com/watch?v=SgyLy6BlAcI&list=P
 Eurekas:
 1.You can style in html using style= in the tag
 2.The label tag is used to add labels to input fields and make them easier to click
+3.You can use overflow in css to decide what happens to content that overflows it's box
